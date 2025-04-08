@@ -35,7 +35,7 @@ public class RuntimeAnnotations {
 }
 
 /*
-Output:
+
     Annotation Value: Author Name
     Author Name: Sehajpreet Kaur
  */
